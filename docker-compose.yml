@@ -1,0 +1,9 @@
+version: "3.9"
+services: 
+    hello:
+        build: .
+        volumes:
+            - ./foo:/app/foo
+            - ./bar:/app/bar
+            - ./core:/app/foo/core
+            - ./core:/app/bar/core
