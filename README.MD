@@ -14,8 +14,9 @@
  12. Does /app/bar/core inside the docker container have a file?
  13. docker exec -it ${CONTAINERID} ls -la /app/bar/core
 
+
  14. Delete the test file on **host** in the directory ./core, now!
- 15. Create a new file on host in the directory ./foo/core
- 16. Is the file on host in ./core ?
- 17. Is the file on host in ./bar/core ? 
- 18. Can you find the file inside the docker container somewhere?
+ 16. Create a new file on host in the directory ./foo/core
+ 17. Is the file on host in ./core ?
+ 18. Is the file on host in ./bar/core ? 
+ 19. Can you find the file inside the docker container somewhere?
