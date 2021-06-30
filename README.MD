@@ -6,3 +6,4 @@
  4. How many folders do you have in your running docker container?
  5. Which directory permissions do you have on a Linux system?
 
+
