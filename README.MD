@@ -5,3 +5,4 @@
  3. How many folders are created on your host machine?
  4. How many folders do you have in your running docker container?
  5. Which directory permissions do you have on a Linux system?
+
