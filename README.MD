@@ -1,5 +1,5 @@
 # Do you know what is happening here?
-## Can you answer this questions before you execute build and up?
+## Can you answer this questions before you execute docker-compose build and docker-compose up?
  1. What happens when you execute ```docker-compose build```?
  2. What happens after a ```docker-compose up```?
  3. How many folders are created on your host machine?
